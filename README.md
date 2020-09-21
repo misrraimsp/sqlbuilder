@@ -8,4 +8,5 @@ Project is created with:
 * Java
 * IntelliJ IDEA
 * JDOM
+* XML
 * Git
